@@ -13,3 +13,5 @@ What is Integration Testing?
 Integration Testing is conducted by  
 	
 It is type of (blackbox/whitebox testing)
+
+Updated by 5_clovis
